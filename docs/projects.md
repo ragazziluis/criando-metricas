@@ -15,6 +15,7 @@ Comandos executados:
 dotnet new console -o CriandoMetricasApp
 cd CriandoMetricasApp
 dotnet add package System.Diagnostics.DiagnosticSource --version 8.0.0
+```
 
 ## 2. Implementação da Métrica Personalizada
 
