@@ -1,0 +1,15 @@
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\bin\Debug\net8.0\CriandoMetricasApp.exe
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\bin\Debug\net8.0\CriandoMetricasApp.deps.json
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\bin\Debug\net8.0\CriandoMetricasApp.runtimeconfig.json
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\bin\Debug\net8.0\CriandoMetricasApp.dll
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\bin\Debug\net8.0\CriandoMetricasApp.pdb
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.AssemblyInfoInputs.cache
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.AssemblyInfo.cs
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.sourcelink.json
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.dll
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\refint\CriandoMetricasApp.dll
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.pdb
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\CriandoMetricasApp.genruntimeconfig.cache
+C:\Users\Luis Miranda\Documents\GitHub\criando-metricas\CriandoMetricasApp\obj\Debug\net8.0\ref\CriandoMetricasApp.dll
